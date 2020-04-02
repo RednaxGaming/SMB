@@ -1,6 +1,0 @@
-kl=K_LEFT
-kr=K_RIGHT
-ku=K_UP
-kd=K_DOWN
-ks=K_SPACE
-ke=K_ENTER
